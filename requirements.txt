@@ -3,6 +3,6 @@ urllib3>=2.0.5,<3
 aiohttp >=3.10.9
 future
 pydantic >=2.0.3, <3
-aenum  @ git+https://github.com/ginrou/aenum@main
+aenum  @ git+https://github.com/ginrou/aenum@master
 python_dateutil >= 2.5.3
 Deprecated
